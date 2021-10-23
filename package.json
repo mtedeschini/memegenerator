@@ -1,5 +1,6 @@
 {
   "name": "memegenerator",
+  "homepage": "https://matiastedeschini.com.ar/memegenerator", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
